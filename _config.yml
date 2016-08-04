@@ -1,4 +1,3 @@
-layout_spectrum: 0.07111556176096201
 typography_spectrum: 0.25818670471198857
 color:
   brandStrength: 0.981730269966647
@@ -11,5 +10,11 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.07111556176096201
+author:
+  name: rich rodgers
+  email: richrodgers@mac.com
+  url: rich.rodgers
+logo: null
 name: rich.rodgers
 title: Onward & Upward
