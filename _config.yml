@@ -6,9 +6,9 @@ color:
   saturation: 0.2839400439988822
   rhythmicContrast: 0.4905522735789418
   brandColors:
-    - '#FFFFFF'
-    - '#060200'
-    - '#5D707B'
-    - '#C2C9CE'
-    - '#503A2C'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: rich.rodgers
