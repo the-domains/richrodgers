@@ -1,0 +1,14 @@
+layout_spectrum: 0.07111556176096201
+typography_spectrum: 0.25818670471198857
+color:
+  brandStrength: 0.981730269966647
+  lightness: 0.4820916005410254
+  saturation: 0.2839400439988822
+  rhythmicContrast: 0.4905522735789418
+  brandColors:
+    - '#FFFFFF'
+    - '#060200'
+    - '#5D707B'
+    - '#C2C9CE'
+    - '#503A2C'
+name: rich.rodgers
